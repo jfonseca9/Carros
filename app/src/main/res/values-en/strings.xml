@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="audi">Audi</string>
+    <string name="azul">Blue</string>
+    <string name="blanco">White</string>
+    <string name="borrar">Clear</string>
+    <string name="chevrolet">Chevrolet</string>
+    <string name="crear">Add Cars</string>
+    <string name="datos_carro">Car data</string>
+    <string name="guardar">Add</string>
+    <string name="guardar_carros">Add Cars</string>
+    <string name="kia">Kia</string>
+    <string name="listar">List Cars</string>
+    <string name="mensaje_error">Enter Preci and plate</string>
+    <string name="mensaje_guardado">Saved Add</string>
+    <string name="mo_2005">2005</string>
+    <string name="mo_2014">2014</string>
+    <string name="mo_2016">2016</string>
+    <string name="mo_2018">2018</string>
+    <string name="negro">Black</string>
+    <string name="placa">PLate</string>
+    <string name="precio">Price</string>
+    <string name="toyota">Toyota</string>
+</resources>
