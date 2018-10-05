@@ -12,9 +12,6 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by android on 07/10/2017.
- */
 
 public class adapter_carro extends BaseAdapter {
     private Context contexto;

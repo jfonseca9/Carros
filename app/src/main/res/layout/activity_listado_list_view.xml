@@ -7,5 +7,5 @@
     android:id="@+id/list_personalizado"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.android.carros.listado_list_view" />
+    tools:context="operaciones_movil.com.tallercarros.listado_list" />
 
